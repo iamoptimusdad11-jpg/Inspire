@@ -40,7 +40,11 @@ export default function Home() {
           "Autumn shows us how beautiful it is to let things go."
         </p>
       </div>
+<div>
+  {/* your current page content */}
 
+  <Chatbot />
+</div>
       <footer style={{ marginTop: "60px", fontSize: "0.9rem", opacity: 0.7 }}>
         © {new Date().getFullYear()} Inspire — Fall Edition
       </footer>
