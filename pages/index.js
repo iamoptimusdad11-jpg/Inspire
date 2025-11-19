@@ -15,12 +15,10 @@ export default function Home() {
       textAlign: "center",
     }}>
       <h1 style={{ fontSize: "3rem", marginBottom: "20px" }}>
-        🍁 Welcome to Inspire 🍁
+        💜 Your Not Alone 💜
       </h1>
       <p style={{ fontSize: "1.4rem", maxWidth: "600px", lineHeight: "1.6" }}>
-        Let warm colors, gentle winds, and the calm of fall guide your day.
-        This is your space to slow down, breathe deeply, and reconnect with what
-        matters.
+        This is a judge free place to open up about anything going on in your life or a place where you just need someone to listen 
       </p>
 
       <div
@@ -34,10 +32,10 @@ export default function Home() {
         }}
       >
         <h2 style={{ fontSize: "1.8rem", marginBottom: "10px" }}>
-          🍂 Today’s Thought
+        
         </h2>
         <p style={{ fontSize: "1.2rem", maxWidth: "500px" }}>
-          "Autumn shows us how beautiful it is to let things go."
+          "There are those good people still left in this world."
         </p>
       </div>
 <div>
